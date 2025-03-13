@@ -1,0 +1,13 @@
+chatbot_env/
+
+.DS_Store
+Thumbs.db
+
+.vscode/
+.idea/
+
+node_modules/
+*.log
+
+__pycache__/
+*.pyc
